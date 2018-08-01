@@ -1,0 +1,1265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: analytical-lite\n"
+"POT-Creation-Date: 2014-08-21 16:59+0530\n"
+"PO-Revision-Date: 2014-08-21 17:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: sketchthemes <info@sketchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "Page Not Found."
+msgstr ""
+
+#: 404.php:15
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:19
+msgid "DISPLAY SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:27
+msgid "Where to show default Sketch BG-Gallery:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:28
+msgid "Every Where:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:32
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:183
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:210
+msgid ""
+"These features comes with Pro Version. To activate please Upgrade Theme."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:33
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:105
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:184
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:133
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:211
+msgid "Click Here To Upgrade"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:35
+msgid "Front Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:36
+msgid "Enable/Disable Sketch Gallery for the Front page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:37
+msgid "Blog Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:38
+msgid "Enable/Disable Sketch Gallery for the Blog page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:39
+msgid "Categories:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:40
+msgid "Enable/Disable Sketch Gallery for the Category Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:41
+msgid "Custom Taxonomies:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:42
+msgid "Enable/Disable Sketch Gallery for the Custom Taxonomy Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:43
+msgid "Tags:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:44
+msgid "Enable/Disable Sketch Gallery for the Tag Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:45
+msgid "Date Archive:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:46
+msgid "Enable/Disable Sketch Gallery for the Archive Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:47
+msgid "Author Page:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:48
+msgid "Enable/Disable Sketch Gallery for the Author Pages."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:57
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:84
+msgid "APPEARANCE SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:64
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:91
+msgid "Slide Duration:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:64
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:66
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:91
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:93
+msgid "in Seconds"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:65
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:92
+msgid "How many seconds an image must stay."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:66
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:93
+msgid "Transition Speed:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:67
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:94
+msgid "How many seconds for the transition from one image to another."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:68
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:95
+msgid "Show Navigation:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:69
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:96
+msgid "Enable/Disable Navigation for the slideshow."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:70
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:97
+msgid "Show Play/Pause Key:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:71
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:98
+msgid "Enable/Disable Play/Pause button."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:72
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:99
+msgid "Show Thumbnails:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:73
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:100
+msgid "Enable/Disable Thumbnails."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:74
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:101
+msgid "Thumbnails Display:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:80
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:108
+msgid "Random Images:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:81
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:109
+msgid "Set to 'ON' if you want to show the images in a Random Order."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:90
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:118
+msgid "OVERLAY SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:97
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:125
+msgid "Display Overlay:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:97
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:125
+msgid "Check it, if you want \"<i>Overlay Effect</i>\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:98
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:126
+msgid ""
+"Check if you want to use the overlay effect and select one of the following "
+"overlay effects."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:99
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:127
+msgid "Set Overlay Effect:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:104
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:132
+msgid ""
+"These all overlays comes with Pro Version. To activate please Upgrade Theme."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:130
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:158
+msgid "BACKGROUND COLOR SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:137
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:165
+msgid "Enable BG-Color:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:137
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:165
+msgid "Check it, if you want to use \"BG color instead of gallery images\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:138
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:166
+msgid "Background Color:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:139
+msgid ""
+"Check if you want to use  color instead of images and select what color you "
+"want to use."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:149
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:177
+msgid "BACKGROUND VIDEO SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:156
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:184
+msgid "Enable BG-Video:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:156
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:184
+msgid "Check it, if you want to use \"BG Video instead of gallery images\"."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:157
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:185
+msgid "URL (.mp4 / YouTube/ Vimeo):"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:157
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:185
+msgid ""
+"Check if you want to use background video instead of images & bg-color and "
+"enter video path/url that you want to show."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:158
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:186
+msgid "Repeat Video:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:159
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:187
+msgid "Set No/Off Video looping."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:170
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:197
+msgid "BACKGROUNDS SETTINGS"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:177
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:204
+msgid "BG-Image 1 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:178
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:205
+msgid "BG-Image 2 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:179
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:206
+msgid "BG-Image 3 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:186
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:213
+msgid "BG-Image 4 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:187
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:214
+msgid "BG-Image 5 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:188
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:215
+msgid "BG-Image 6 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:189
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:216
+msgid "BG-Image 7 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:190
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:217
+msgid "BG-Image 8 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:191
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:218
+msgid "BG-Image 9 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_main.php:192
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:219
+msgid "BG-Image 10 URL/Path:"
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:68
+msgid ""
+"Check it, if you want to <b>Disable</b> Sketch BG-Gallery for this post/page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:73
+msgid "Add <b>Sketch BG-Gallery</b> to this post/page."
+msgstr ""
+
+#: SketchBoard/functions/sketch-background-gallery/inc/admin/analytical_lite_skebg_mata.php:167
+msgid ""
+"Check if you want to use background color instead of images and select what "
+"color you want to use."
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:13
+msgid "Home"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:70
+msgid "Author"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:73
+msgid "Tag"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:76
+msgid "Search"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:98
+msgid "Pages"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:99
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:100
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: SketchBoard/functions/sketch-theme-support.php:29
+msgid "Untitled"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:139
+msgid "Analytical Lite Options"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:181
+msgid "To Activate All Features, Please Upgrade to Pro version!"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:183
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:184
+msgid "Setup Instructions"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:186
+msgid "Rate Analytical Lite"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:214
+msgid "SketchThemes Admin Panel"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:223
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:253
+msgid "Default options restored."
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:287
+msgid "Options saved."
+msgstr ""
+
+#: SketchBoard/inc/options-framework.php:331
+msgid "Theme Options"
+msgstr ""
+
+#: SketchBoard/inc/options-medialibrary-uploader.php:21
+msgid "Theme Options Media"
+msgstr ""
+
+#: SketchBoard/inc/options-medialibrary-uploader.php:102
+msgid "Upload"
+msgstr ""
+
+#: SketchBoard/inc/options-medialibrary-uploader.php:120
+msgid "View File"
+msgstr ""
+
+#: SketchBoard/inc/options-medialibrary-uploader.php:224
+msgid "Gallery"
+msgstr ""
+
+#: SketchBoard/inc/options-medialibrary-uploader.php:224
+msgid "Previously Uploaded"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:184
+msgid "No Repeat"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:185
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:186
+msgid "Repeat Vertically"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:187
+msgid "Repeat All"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:199
+msgid "Top Left"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:200
+msgid "Top Center"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:201
+msgid "Top Right"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:202
+msgid "Middle Left"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:203
+msgid "Middle Center"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:204
+msgid "Middle Right"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:205
+msgid "Bottom Left"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:206
+msgid "Bottom Center"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:207
+msgid "Bottom Right"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:219
+msgid "Scroll Normally"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:220
+msgid "Fixed in Place"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:288
+msgid "Normal"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:289
+msgid "Italic"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:290
+msgid "Bold"
+msgstr ""
+
+#: SketchBoard/inc/options-sanitize.php:291
+msgid "Bold Italic"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:80
+msgid "Convac - Responsive Multi Author Blogging Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:83
+msgid ""
+"Convac is elegant WordPress theme solely designed for web bloggers. The main "
+"aim of theme is to improve blog’s appearance for the end users and making "
+"blog posting a cakewalk task for bloggers. The theme has options and "
+"features which can customize blog as per your user and interest. Design for "
+"bloggers, theme is equipped with integrated features such as- post share, "
+"post like, subscription widget, supports to all post formats and many more."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:86
+msgid "Try Convac Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:87
+#: SketchBoard/inc/sketchtheme-upsell.php:112
+#: SketchBoard/inc/sketchtheme-upsell.php:137
+#: SketchBoard/inc/sketchtheme-upsell.php:162
+#: SketchBoard/inc/sketchtheme-upsell.php:187
+#: SketchBoard/inc/sketchtheme-upsell.php:211
+#: SketchBoard/inc/sketchtheme-upsell.php:235
+#: SketchBoard/inc/sketchtheme-upsell.php:259
+#: SketchBoard/inc/sketchtheme-upsell.php:282
+#: SketchBoard/inc/sketchtheme-upsell.php:304
+#: SketchBoard/inc/sketchtheme-upsell.php:327
+msgid "View Demo"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:88
+msgid "Buy Convac Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:104
+msgid "Foodeez - Multi Cuisine Restaurant WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:107
+msgid ""
+"Foodeez Lite is the the classy theme created for Restaurants and hotel "
+"Industry. To provide a Classy, elegant theme for the hospitality industry "
+"and to fill in the void Foodeez was designed. Every restaurant or hotel "
+"desires to showcase it's cuisines and ambiance in a beautiful manner. This "
+"was not satiated by any prior theme. Hence, Foodeez was designed. Now you "
+"can enjoy a fully Responsive, and Full-width Header Background Image with "
+"floating navigation which gets converted into Persistent Navigation on "
+"scroll down.The Amazing Parallax section allows you to showcase your Super-"
+"Specialty Signature Dishes or your Dish of the Day. In short, if you're a "
+"chef, a cook, cuisine guru, food expert, food fanatic, blogger, nutrition "
+"expert, diet planner, dietitian, recipe sharer, Fine Dining Lover, or just a "
+"food enthusiast, who want to share the love of food. Then this theme is "
+"Perfect for you.Clean, Fresh Looks of this WordPress Theme will make you "
+"feel wow. The blog page is clean and designed to The Theme is Loaded with "
+"feature which you won't find on any other Lite Themes with this much "
+"precision and quality."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:111
+msgid "Try Foodeez Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:113
+msgid "Buy Foodeez Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:129
+msgid "Advertica - Creative MultiPurpose WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:132
+#: SketchBoard/inc/sketchtheme-upsell.php:157
+msgid ""
+"A Clean, Multipurpose, Responsive Business WordPress Theme by SketchThemes. "
+"With easy customization options one can easily setup a perfect business "
+"theme in a few minutes. The striking features of INVERT are Easy Custom "
+"Admin Options, 3 Custom Page Templates, Parallax Section, Custom Logo, "
+"Custom favicon, Social links Setup, SEO Optimized, Call To Action, Featured "
+"Text."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:136
+msgid "Try Advertica Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:138
+msgid "Buy Advertica Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:154
+msgid "Invert - Responsive MultiPurpose WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:161
+msgid "Try Invert Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:163
+msgid "Buy Invert Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:179
+msgid "Biznez - Multi Purpose Wordpress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:182
+msgid ""
+"BizNez is a powerful Responsive Multipurpose WordPress Theme with clean and "
+"crispy design. BizNez is modern and flexible enough. It allows you to create "
+"your website around any niche without the need of any complicated HTML code "
+"knowledge. Be it a Blog, Business, Portfolio, Corporate, Agency, an online "
+"store or any other kind of website BizNez will be a good pick for you. With "
+"our advanced admin panel, tons of customizations are possible and that&#39;"
+"ll help you redefine your website&#39;s brand value. You can also change "
+"site layout with only a single click. Also, this theme comes with retina "
+"ready feature. You can see great details on any devices screen. Woo Commerce "
+"and RTL languages are also supported with our BizNez theme."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:186
+msgid "Try Biznez Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:188
+msgid "Buy Biznez Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:204
+msgid "Analytical Full Width Responsive Wordpress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:207
+msgid ""
+"Analytical is a full width WordPress theme built especially for "
+"photographers and others who want to feature more graphics on their website. "
+"This theme features a full width background slider which is highly "
+"customizable and totally responsive."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:210
+msgid "Try Analytical Free"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:212
+msgid "Buy Analytical Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:228
+msgid "BizStudio Full Width Responsive Wordpress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:231
+msgid ""
+"Bizstudio is a Simple, Minimal, Responsive, One Click Install, Beautiful and "
+"Elegent WordPress Theme. Along with the elegent design the theme is highly "
+"flexible and customizable with easy to use Admin Panel Options. From a wide "
+"range of options some key options are custom two different layout "
+"option(full width and with sidebar), 5 widget areas, custom follow us and "
+"contact widget, Logo, logo alt text, custom favicon, social links, rss feed "
+"button, custom copyright text and many more. Also it is compitable with "
+"various popular plugins like All in One SEO Pack, WP Super Cache, Contact "
+"Form 7 etc. It is translation ready as well."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:234
+msgid "Try BizStudio Lite"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:236
+msgid "Buy BizStudio Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:252
+msgid "Irex Full Width Portfolio Wordpress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:255
+msgid ""
+"Irex is a simple, minimal, responsive, easy to use, one click install, "
+"beautiful and Elegent WordPress Theme with Easy Custom Admin Options Created "
+"by SketchThemes.com. Using Irex theme options any one can easily customize "
+"this theme according to their need. You can use your own Logo, logo alt "
+"text, custom favicon, you can add social links, rss feed to homepage, you "
+"can use own copyright text etc. And all this information can be entered "
+"using Irex Theme Options Panel. You have to just set the content from the "
+"Irex  Themes Options Panel and it will be up ready to use."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:258
+msgid "Try Irex Lite"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:260
+msgid "Buy Irex Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:275
+msgid "SketchMini Free Responsive WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:278
+msgid ""
+"SketchMini is a Responsive WordPress Theme Free to use with a GPL. "
+"SketchMini has got great features and awesome backend to make use of the "
+"available features in the theme. You dont need to be an expert to use this "
+"SketchMini theme. SketchMini can act as a great base theme to create any "
+"great website."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:281
+msgid "Try Sketchmini Lite"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:298
+msgid "FullScreen - OnePager Responsive WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:301
+msgid ""
+"FullScreen is clean, multipurpose and elegant WordPress theme with fully "
+"responsive layout. Theme is suited for all photographers, creative, business "
+"and portfolio websites. Theme includes lots of features like full-screen "
+"slider, modular homepage, layout shortcodes and more. With our advanced "
+"admin panel, tons of customizations are possible and that will help you "
+"redefine your website brand value."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:305
+msgid "Buy FullScreen Pro"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:321
+msgid "Timeliner - Minimal Ultra Responsive WordPress Theme"
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:324
+msgid ""
+"Timeliner is a premier timeline theme for WordPress. Timeliner is a minimal, "
+"clean, modern and highly customizable theme. It allows you to create their "
+"website around any niche without the need of any complicated HTML code "
+"knowledge. Be it a Blog, Portfolio, Corporate, Agency, any other kind of "
+"website Timeliner will be a good pick for you. With our advanced admin "
+"panel, tons of customizations are possible and that will help you redefine "
+"your website&#39;s brand value. Also, this theme comes with retina ready "
+"feature. You can see great details on any devices screen."
+msgstr ""
+
+#: SketchBoard/inc/sketchtheme-upsell.php:328
+msgid "Buy Timeliner Pro"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:16
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:82 author.php:74 category.php:74 home.php:68 index-page.php:1
+#: index.php:68 page.php:31 search.php:74 tag.php:74
+msgid "&larr;Previous"
+msgstr ""
+
+#: archive.php:83 author.php:75 category.php:75 home.php:69 index-page.php:1
+#: index.php:69 page.php:32 search.php:75 tag.php:75
+msgid "Next&rarr;"
+msgstr ""
+
+#: archive.php:89 author.php:81 category.php:81 home.php:75 index.php:75
+#: tag.php:81
+msgid "Posts Not Exist"
+msgstr ""
+
+#: author.php:13
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:13
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:13
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:13
+msgid "% Comments "
+msgstr ""
+
+#: comments.php:13
+msgid " so far:"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:35
+msgid "Leave your Comment"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "Leave your Comment to %s"
+msgstr ""
+
+#: comments.php:37
+msgid "Cancel your Comment"
+msgstr ""
+
+#: contact-page.php:27 index-page.php:1 page.php:21 single.php:62
+msgid "Edit"
+msgstr ""
+
+#: contact-page.php:27
+msgid "<p>"
+msgstr ""
+
+#: contact-page.php:27 index-page.php:1 page.php:20 page.php:21 single.php:62
+msgid "</p>"
+msgstr ""
+
+#: contact-page.php:33
+msgid "Page Does Not Exist"
+msgstr ""
+
+#: footer.php:19 header.php:84
+msgid "Analytical Lite By"
+msgstr ""
+
+#: footer.php:19 header.php:84
+msgid "SketchThemes"
+msgstr ""
+
+#: functions.php:38
+msgid "Primary Navigation"
+msgstr ""
+
+#: header.php:77
+msgid "Contact Us"
+msgstr ""
+
+#: index-page.php:1 page.php:20
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: index-page.php:1 page.php:20
+msgid "number"
+msgstr ""
+
+#: index-page.php:1 page.php:21
+msgid "<p class=\"clearfix\">"
+msgstr ""
+
+#: index-page.php:1 page.php:37
+msgid "Not Found"
+msgstr ""
+
+#: options.php:42
+msgid "Top Header"
+msgstr ""
+
+#: options.php:43
+msgid "Left Header"
+msgstr ""
+
+#: options.php:47
+msgid "Yes"
+msgstr ""
+
+#: options.php:48
+msgid "No"
+msgstr ""
+
+#: options.php:52
+msgid "Static Layout"
+msgstr ""
+
+#: options.php:53
+msgid "Custom Layout"
+msgstr ""
+
+#: options.php:60
+msgid "General Settings"
+msgstr ""
+
+#: options.php:63
+msgid "Layout Structure"
+msgstr ""
+
+#: options.php:64
+msgid "Default Structure option \"Top\"."
+msgstr ""
+
+#: options.php:70
+msgid "Base Color"
+msgstr ""
+
+#: options.php:71
+msgid "Change the base color."
+msgstr ""
+
+#: options.php:76
+msgid "Base Color 2"
+msgstr ""
+
+#: options.php:77
+msgid "Change the base color 2."
+msgstr ""
+
+#: options.php:82
+msgid "Change Logo (full path to logo image \" 240px into 78px \")"
+msgstr ""
+
+#: options.php:83 options.php:89
+msgid "This creates a Custom logo that previews the image."
+msgstr ""
+
+#: options.php:88
+msgid "Change Persistent header logo image (\" 120px into 39px \")"
+msgstr ""
+
+#: options.php:94
+msgid "Sidebar Contact Us Content ( for \"Left Header\" layout structure )"
+msgstr ""
+
+#: options.php:95
+msgid "Enter Contact Us Content."
+msgstr ""
+
+#: options.php:100
+msgid "Show Custom Pagination"
+msgstr ""
+
+#: options.php:101
+msgid "Show custom pagination on pages."
+msgstr ""
+
+#: options.php:108
+msgid "Change favicon"
+msgstr ""
+
+#: options.php:109
+msgid "This creates a Custom favicon that previews the image."
+msgstr ""
+
+#: options.php:115
+msgid "Navigation Settings"
+msgstr ""
+
+#: options.php:118
+msgid "Navigation Even-item BG-Color"
+msgstr ""
+
+#: options.php:119
+msgid "Change Even-item BG-Color."
+msgstr ""
+
+#: options.php:124
+msgid "Navigation Odd-item BG-Color"
+msgstr ""
+
+#: options.php:125
+msgid "Change Odd-item BG-Color."
+msgstr ""
+
+#: options.php:130
+msgid "Check to Enable persistent header navigation menu."
+msgstr ""
+
+#: options.php:131
+msgid ""
+"Enable persistent header navigation menu. <b>(<i>works with only \"Top Header"
+"\" Layout Structure.</i>)</b>"
+msgstr ""
+
+#: options.php:136
+msgid "Social links"
+msgstr ""
+
+#: options.php:139
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:140
+msgid "Enter Facebook Link."
+msgstr ""
+
+#: options.php:145
+msgid "Twitter link"
+msgstr ""
+
+#: options.php:146
+msgid "Enter Twitter link."
+msgstr ""
+
+#: options.php:151
+msgid "Google plus Id"
+msgstr ""
+
+#: options.php:152
+msgid "Enter Google plus Id."
+msgstr ""
+
+#: options.php:157
+msgid "Youtube Link"
+msgstr ""
+
+#: options.php:158
+msgid "Enter Youtube Link."
+msgstr ""
+
+#: options.php:163
+msgid "Pinterest Link"
+msgstr ""
+
+#: options.php:164
+msgid "Enter Pinterest Link."
+msgstr ""
+
+#: options.php:169
+msgid "Dribble Link"
+msgstr ""
+
+#: options.php:170
+msgid "Enter Dribble Link."
+msgstr ""
+
+#: options.php:175
+msgid "Wordpress Link"
+msgstr ""
+
+#: options.php:176
+msgid "Enter Wordpress Link."
+msgstr ""
+
+#: options.php:184
+msgid "Contact Page Options"
+msgstr ""
+
+#: options.php:190
+msgid "Select Contact us page"
+msgstr ""
+
+#: options.php:191
+msgid "Contact us page"
+msgstr ""
+
+#: options.php:211
+msgid "Contact Form Info"
+msgstr ""
+
+#: options.php:216
+msgid "Footer"
+msgstr ""
+
+#: options.php:220
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:221
+msgid "You can use HTML for links etc.."
+msgstr ""
+
+#: options.php:228
+msgid "Footer Sidebar Names"
+msgstr ""
+
+#: options.php:232
+msgid "First Sidebar Title:"
+msgstr ""
+
+#: options.php:233 options.php:240 options.php:247
+msgid "Leave it blank, if you want to disable it."
+msgstr ""
+
+#: options.php:239
+msgid "Second Sidebar Title:"
+msgstr ""
+
+#: options.php:246
+msgid "Third Sidebar Title:"
+msgstr ""
+
+#: options.php:253
+msgid "Front Page Layout option"
+msgstr ""
+
+#: options.php:257
+msgid "Select Your Front Page Layout."
+msgstr ""
+
+#: options.php:258
+msgid ""
+"if you select Static layout for front page your selected page content is "
+"show otherwise custom front page layout show."
+msgstr ""
+
+#: options.php:265
+msgid "Front Page Gallery Captions"
+msgstr ""
+
+#: options.php:269 options.php:332
+msgid "Image 1 Title:"
+msgstr ""
+
+#: options.php:270 options.php:333
+msgid "Enter Image 1 Title."
+msgstr ""
+
+#: options.php:275 options.php:338
+msgid "Image 1 Content:"
+msgstr ""
+
+#: options.php:276 options.php:339
+msgid "Enter Image 1 Content."
+msgstr ""
+
+#: options.php:282 options.php:345
+msgid "Image 2 Title:"
+msgstr ""
+
+#: options.php:283 options.php:346
+msgid "Enter Image 2 Title."
+msgstr ""
+
+#: options.php:288 options.php:351
+msgid "Image 2 Content:"
+msgstr ""
+
+#: options.php:289 options.php:352
+msgid "Enter Image 2 Content."
+msgstr ""
+
+#: options.php:295 options.php:358
+msgid "Image 3 Title:"
+msgstr ""
+
+#: options.php:296 options.php:359
+msgid "Enter Image 3 Title."
+msgstr ""
+
+#: options.php:301 options.php:364
+msgid "Image 3 Content:"
+msgstr ""
+
+#: options.php:302 options.php:365
+msgid "Enter Image 3 Content."
+msgstr ""
+
+#: options.php:309
+msgid "Front Page Video Caption"
+msgstr ""
+
+#: options.php:313
+msgid "Video Title:"
+msgstr ""
+
+#: options.php:314
+msgid "Enter Video Title."
+msgstr ""
+
+#: options.php:319
+msgid "Video Description:"
+msgstr ""
+
+#: options.php:320
+msgid "Enter Video Description."
+msgstr ""
+
+#: options.php:328
+msgid "Gallery Page Image Captions"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:81
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: sidebar-blog.php:7 sidebar-footer.php:10 sidebar-footer.php:42
+msgid "Archives"
+msgstr ""
+
+#: sidebar-blog.php:13 sidebar-footer.php:25
+msgid "Meta"
+msgstr ""
+
+#: single.php:55
+msgid " and posted in "
+msgstr ""
+
+#: single.php:55
+msgid ", "
+msgstr ""
+
+#: single.php:62
+msgid "<br><p>"
+msgstr ""
+
+#: single.php:78
+msgid "Post Not Exist"
+msgstr ""
+
+#: tag.php:13
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
