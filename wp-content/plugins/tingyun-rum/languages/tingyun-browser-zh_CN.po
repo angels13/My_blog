@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tingyun Browser for WordPress Plugin\n"
+"POT-Creation-Date: 2016-04-13 09:50+0800\n"
+"PO-Revision-Date: 2016-04-13 09:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: tingyun-browser.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: tingyun-browser.php:42
+msgid "Configuration"
+msgstr "设置"
+
+#: tingyun-browser.php:52
+msgid "Tingyun Browser for WordPress Plugin"
+msgstr "听云Browser WordPress插件"
+
+#: tingyun-browser.php:52
+msgid "Tingyun Browser"
+msgstr "听云Browser"
+
+#: tingyun-browser.php:66
+msgid ""
+"Sorry, you don't have sufficient permissions to access this configuration "
+"page."
+msgstr "抱歉，您没有权限访问该设置页面"
+
+#: tingyun-browser.php:73
+msgid "Tingyun Browser RUM (Real User Monitoring)"
+msgstr "听云Browser RUM （真实用户性能监测）"
+
+#: tingyun-browser.php:84
+msgid ""
+"Trace threshold must be positive integer larger than 1000, in millisecond"
+msgstr "页面追踪阈值必须是大于1000的正整数，单位毫秒"
+
+#: tingyun-browser.php:91
+msgid "Please fill your Tingyun Browser Application's ID and Key below."
+msgstr "请在下面填写您听云Browser应用的ID和Key。"
+
+#: tingyun-browser.php:91
+msgid "These can be found in your application configuration page on "
+msgstr "这些信息可以在听云Browser报表控制台的“应用设置”页面上找到"
+
+#: tingyun-browser.php:91
+msgid "Tingyun Browser Console"
+msgstr "听云Browser报表控制台"
+
+#: tingyun-browser.php:92
+msgid "If you don't have a Tingyun account, you can sign in for free: "
+msgstr "如果您没有听云帐号，您可以免费注册一个："
+
+#: tingyun-browser.php:92
+msgid "Sign in"
+msgstr "注册听云帐号"
+
+#: tingyun-browser.php:95
+msgid "Application ID: "
+msgstr "应用ID："
+
+#: tingyun-browser.php:98
+msgid "Application Key: "
+msgstr "应用Key："
+
+#: tingyun-browser.php:101
+msgid "Trace threshold (ms): "
+msgstr "页面追踪阈值（毫秒）："
+
+#: tingyun-browser.php:104
+msgid "Custom URLs: "
+msgstr "自定义加载时间设置："
+
+#: tingyun-browser.php:111
+msgid "Back to Plugins..."
+msgstr "返回插件列表..."
+
+#. Plugin Name of the plugin/theme
+msgid "Tingyun Browser Plugin for WordPress"
+msgstr "听云Browser WordPress插件"
+
+#. Description of the plugin/theme
+msgid ""
+"This Plugin will add Tingyun Browser RUM (Real User Monitoring) Agent on "
+"your WordPress website."
+msgstr ""
+"该插件自动在WordPress网站的页面上插入听云Browser RUM（真实用户性能监测）探"
+"针脚本。"
+
+#. Author of the plugin/theme
+msgid "groot@tingyun.com"
+msgstr ""
+
+#~ msgid "Trace threshold: "
+#~ msgstr "页面追踪阈值："

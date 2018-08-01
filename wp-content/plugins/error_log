@@ -1,0 +1,1 @@
+[22-Jun-2015 11:37:00 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/ngmapco2/public_html/blog.ngmap.com/wp-content/plugins/hello.php on line 60
